@@ -1,2 +1,2 @@
-# products-api-spring-course
-Test API made in a JAVA Spring Boot course
+# API made for testing Spring Boot in a course
+Not so important project... at all
