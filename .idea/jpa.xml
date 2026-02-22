@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="produtosapi" name="produtosapi" framework="JPA" ormUnit="produtosapi:produtosapi" defaultDataSourceId="4b0d5400-e7f7-41ae-a2fd-ca8691cc94a2" />
+    </persistence-units>
+  </component>
+</project>
